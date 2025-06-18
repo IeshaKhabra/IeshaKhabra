@@ -1,16 +1,19 @@
-## Hi there 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<!--
-**IeshaKhabra/IeshaKhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Iesha 
+
+
+- 🌱 Computer Science student at **Sacramento State University**
+- 🌊 Passionate about full-stack development, mobile, and web applications
+- 🌷 Currently building full-stack apps with **React Native**, **TypeScript**, and **Firebase**  
+- 🐚 Learning: **ReactJS**, **Node.js**, and how to write clean, scalable code  
+
+</div>
+
+<img src="https://tenor.com/view/mice-cute-gif-12813574423840616030" alt="cute animated corgi in the rain" width="200" style="margin-left: 20px;"/>
+
+</div>
+
