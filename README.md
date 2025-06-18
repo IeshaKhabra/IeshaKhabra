@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://tenor.com/pqItbv0cfqA.gif" alt="cute animated corgi in the rain" width="200" style="margin-left: 20px;"/>
+<img src="https://media.giphy.com/media/t4MSm5ySVFtZx59X4Z/giphy.gif" alt="cute animated corgi" width="200" style="margin-left: 20px;"/>
 
 </div>
 
