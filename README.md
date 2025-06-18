@@ -7,7 +7,7 @@
 - 🌱 Computer Science student at **Sacramento State University**  
 - 🌊 Passionate about full-stack development, mobile, and web applications  
 - 🌷 Currently building full-stack apps with **React Native**, **TypeScript**, and **Firebase**  
-- 🐚 Learning: **ReactJS**, **Node.js**, and how to write clean, scalable code**  
+- 🐚 Learning: **ReactJS**, **Node.js**, and how to write clean, scalable code  
 
 </td>
 <td>
