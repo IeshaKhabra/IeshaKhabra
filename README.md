@@ -20,7 +20,7 @@
 
 ### 🪼 Tech Stack
 
-`JavaScript` `TypeScript` `React Native` `Firebase` `Node.js`  
+`JavaScript` `TypeScript` `React Native` `Supabase` `Node.js`  
 `HTML/CSS` `Git/GitHub` `Figma` `Python`
 
 
